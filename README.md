@@ -12,6 +12,7 @@ step 3:-in advance settings check the box "use hardware accleration when avilabl
  
 NEXT(when the above steps are completed)
 run the html file in mozila browser
+enjoy the solar system :-)
 
 
 
@@ -21,4 +22,4 @@ Thank you
 
 
 
-THunder studios 
+THundeR studios 
