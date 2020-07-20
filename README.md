@@ -2,7 +2,7 @@
 sample1_(solar system)
 
 
-this is a sample project developde in unity 
+this is a sample project developed in unity 
 it is in webgl format
 you can clone the files attached to the repository
 please run it in mozila firefox 
