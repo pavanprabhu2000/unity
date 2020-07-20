@@ -14,6 +14,8 @@ step 4:-in advance settings check the box "use hardware accleration when avilabl
  
 step 5:-(when the above steps are completed)
 run the (index.html) file in mozila browser which u have cloned.
+click on the planets so that u can watch each planets and see how they move around the sun 
+
 
 
 enjoy the solar system :-)
