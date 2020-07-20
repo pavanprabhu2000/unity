@@ -12,7 +12,9 @@ step 3:- type "webgl.force-disabled" and change it to enabled
 step 4:-in advance settings check the box "use hardware accleration when avilable"
  
 step 5:-(when the above steps are completed)
-run the (index.html) file in mozila browser
+run the (index.html) file in mozila browser.
+
+
 enjoy the solar system :-)
 
 
