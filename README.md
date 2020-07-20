@@ -7,7 +7,7 @@ it is in webgl format
 you can clone the files attached to the repository
 please run it in mozila firefox 
 KINDLY FOLLOW THESE INSTRUCTION 
-step 1:-type "about:config" in the url bar of mozila firefox
+step 1:-type "about:config" in the url bar of mozila firefox \n
 step 2:- type "webgl.disabled" and set it to false
 step 3:- type "webgl.force-disabled" and change it to enabled
 step 4:-in advance settings check the box "use hardware accleration when avilable"
